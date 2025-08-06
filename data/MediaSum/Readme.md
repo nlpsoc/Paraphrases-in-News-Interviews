@@ -4,9 +4,9 @@
 
 You probably don't need this, rather use `result/Data/cut_news_dialogue.tsv` (see below)
 
-Download `news_dialog.zip` via: https://github.com/zcgzcgzcg1/MediaSum
+Download `news_dialog.zip` via https://drive.google.com/file/d/1ZAKZM1cGhEw2A4_n4bGGMYyF8iPjLZni/view?usp=sharing as referenced here https://github.com/zcgzcgzcg1/MediaSum/tree/main/data
 
-De-compress and put `news_dialog.json` (4.5 GB) in `MediaSum` directory. We use the same IDs for the interviews in our data as in the original `news_dialog.json`.
+De-compress and put `news_dialog.json` (4.5 GB) in this directory. We use the same IDs for the interviews in our data as in the original `news_dialog.json`.
 
 Data format of `news_dialog.json`:
 
