@@ -9,6 +9,8 @@ import paraphrase.qualtrics
 import paraphrase.utility.qualtrics_api
 import paraphrase.utility.qualtrics_survey
 
+import src.perspective_getting.token_classifier
+
 
 class Test(TestCase):
 
@@ -49,5 +51,5 @@ class Test(TestCase):
                                            test=True, batch=2, epochs=1)
 
     def test_token_classifier_from_hub(self):
-        model = token_classifier.TokenClassifier("AnnaWegmann/Paraphrase-In-Dialog")
+        model = src.perspective_getting.token_classifier.TokenClassifier("AnnaWegmann/Paraphrase-In-Dialog")
         model.inference(self.huggingface_format)
