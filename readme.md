@@ -1,6 +1,6 @@
 # What's Mine becomes Yours: Detecting Context-Dependent Paraphrases in News Interview Dialogs
 
-Great that you are here. This is the repository for our EMNLP 2024 main conference paper "What's Mine becomes Yours: Detecting Context-Dependent Paraphrases in News Interview Dialogs", see the preprint [on arxiv](https://arxiv.org/abs/2404.06670). You probably are either interested in the **annotated data** (https://huggingface.co/datasets/AnnaWegmann/Paraphrases-in-Interviews) or using a **computational model to predict paraphrases in dialog** (see https://huggingface.co/AnnaWegmann/Highlight-Paraphrases-in-Dialog-ALL for the ALL model and https://huggingface.co/AnnaWegmann/Highlight-Paraphrases-in-Dialog for the AGGREGATED model).
+Great that you are here. This is the repository for our EMNLP 2024 main conference paper "What's Mine becomes Yours: Detecting Context-Dependent Paraphrases in News Interview Dialogs", see the preprint [on arxiv](https://arxiv.org/abs/2404.06670) or the published version [on aclanthology](https://aclanthology.org/2024.emnlp-main.52/). You probably are either interested in the **annotated data** (https://huggingface.co/datasets/AnnaWegmann/Paraphrases-in-Interviews) or using a **computational model to predict paraphrases in dialog** (see https://huggingface.co/AnnaWegmann/Highlight-Paraphrases-in-Dialog-ALL for the ALL model and https://huggingface.co/AnnaWegmann/Highlight-Paraphrases-in-Dialog for the AGGREGATED model).
 
 
 ## Annotation Data
