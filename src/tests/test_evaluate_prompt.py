@@ -11,8 +11,8 @@ from paraphrase.utility.project_functions import get_dir_to_src
 
 class Test(TestCase):
     def test_main(self):
-        response_path = "fixtures/in-context/Responses-openchat-3.5-0106_4bit_5-fixture-prompts.json"
-        prompt_path = "fixtures/in-context/5-fixture-prompts.json"
+        response_path = "fixtures/in-context/Responses-openchat-3.5-0106_4bit_5-fixture-25-09-04_prompts.json"
+        prompt_path = "fixtures/in-context/5-fixture-25-09-04_prompts.json"
         evaluate_icl_responses.main(response_path, prompt_path)
 
     def test_eval_instruction(self):

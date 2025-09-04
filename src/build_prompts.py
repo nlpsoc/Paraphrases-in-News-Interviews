@@ -46,7 +46,7 @@ def main(shot=len(FEW_SHOT_EXAMPLES), dataset="dev", instruction_faithful=False)
         print(prompt)
 
     # save prompts to file as json
-    with open(f"../output/{file_prefix}prompts.json", 'w') as f:
+    with open(f"../output/{file_prefix}25-09-04_prompts.json", 'w') as f:
         f.write(json.dumps(prompts, ensure_ascii=False, indent=4, sort_keys=True))
 
 
