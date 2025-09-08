@@ -168,10 +168,13 @@ Additional note
 Data License
 ^^^^^^^^^^^^
 
-NEXT !!
-The original data for this Corpus was obtained from Jinho D. Choi and the Emory NLP team (https://github.com/emorynlp/character-mining). It is copyrighted 2015, Emory University, and licensed under `the Apache License, v.2.0 <https://github.com/emorynlp/character-mining/blob/master/LICENSE.txt>`_.
+Research-only
+
+Details:
+Regarding license, the `Mediasum paper <https://aclanthology.org/2021.naacl-main.474.pdf>`_ reads: "We have used only the publicly available transcripts data from the media sources and adhere to their only-for-research-purpose guideline." and "Please restrict your usage of this dataset to research purpose only" on `their GitHub <https://github.com/zcgzcgzcg1/MediaSum>`_. The annotations are also shared with a research-only license, see `GitHub <https://github.com/nlpsoc/Paraphrases-in-News-Interviews>`_.
+
 
 Contact
 ^^^^^^^
 
-Please email any questions to Emily Tseng (et397@cornell.edu), Nianyi Wang (nw344@cornell.edu), and Katharine Sadowski (ks2373@cornell.edu).
+Please email any questions to Anna Wegmann (a.m.wegmann@uu.nl).
